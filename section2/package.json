@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "section1",
-=======
+
   "name": "section2",
->>>>>>> bd9c06b (client side rendering)
   "version": "0.1.0",
   "private": true,
   "scripts": {

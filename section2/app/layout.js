@@ -13,7 +13,6 @@ export default function RootLayout({ children }) {
     <html lang="en">
      
       <body className={inter.className}>
-      <h1>I am header</h1>
       {children}</body>
     </html>
   );
