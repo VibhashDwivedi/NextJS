@@ -12,7 +12,7 @@ export default function ProductClick(props) {
 
     return (
         <div>
-            <button onClick={clicked} type="button">Click me</button>
+            <div onClick={clicked} type="button">Click me</div>
             <div className={`${Click ? 'clicked': 'unClicked'}`} >Price: {props.price}</div>
         </div>
     )
