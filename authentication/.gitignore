@@ -36,9 +36,5 @@ yarn-error.log*
 next-env.d.ts
 
 
-<<<<<<< HEAD
 generateSecret.js
 .env
-=======
-generateSecret.js
->>>>>>> b531f35337478b5a38f2f653027847524c4515f9
